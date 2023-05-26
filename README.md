@@ -2,17 +2,13 @@
 <h1 align="center">✨ Hey there, I'm Beta!</h1>
 <h3 align="center">little indie dev and artist just trying her best.</h3>
 
-- 🟢 I’m currently working on: **MB: Mania**
+- 🟢 I’m currently working on: **Mini Jam 133 👀**
 
 - 🌱 I’m currently learning: **GDScript, Python**
 
-- 🌻 All of my projects are available at: [Coming soon...](Coming soon...)
-
-- 📝 I regularly write articles on: [Also Coming soon...](Also Coming soon...)
+- 🌻 All of my projects are available at: (Coming soon...)
 
 - 🦋 How to reach me: **Discord! [Betapop#1336]**
-
-- 🎨 Fun fact: **I like red velvet cake ^^**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
