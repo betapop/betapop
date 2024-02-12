@@ -4,7 +4,7 @@
 
 - 🟢 I’m currently working on: **<a href="https://github.com/Monika-After-Story/MonikaModDev">Modding for the game Monika after story!</a>**
 
-- 🌱 I’m currently learning: **GDScript, Python**
+- 🌱 I’m currently learning: **GDScript, Python, Ren'py**
 
 - 🌻 All of my projects are available at: (Coming soon...)
 
